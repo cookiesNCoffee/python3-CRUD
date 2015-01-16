@@ -1,1 +1,2 @@
-# python3-CRUD is a simple crud app in python3 with sqlite3.
+# python3-CRUD 
+This a simple crud app in python3 with sqlite3.
